@@ -43,13 +43,15 @@ I enjoy transforming raw data into meaningful insights, developing AI-powered ap
 
 ### Programming & Development
 
-* Python
-* SQL
-* HTML
-* CSS
-* JavaScript
-* Git
-* GitHub
+<h3>🛠️ Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,git,github,html,css,js,mysql,vscode,django,linux,postman" />
+</p>
+
+<p align="center">
+  Data Science • Machine Learning • Deep Learning • Generative AI • Power BI • E-commerce Analytics
+</p>
 
 ### Data Science & Analytics
 
