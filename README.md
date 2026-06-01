@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Rana%20Saad&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20|%20Machine%20Learning%20|%20Generative%20AI%20|%20E-Commerce&descAlignY=60"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;Deep+Learning+Explorer;Generative+AI+Developer;Power+BI+Dashboard+Developer;Daraz+E-commerce+Specialist" />
+</p>
+
 # Hi 👋, I'm Rana Saad
 
 ## Data Science & Machine Learning Trainee
